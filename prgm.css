@@ -1,0 +1,46 @@
+body{
+    color:blue;
+    background-color:aquamarine;
+}
+
+.name{
+      border:2px solid yellow;
+      background-color:blanchedalmond;
+      text-align:center;
+      text-decoration:underline;
+
+}
+
+.image{
+      display:black;
+      width:238px;
+      margin:20px auto;
+}
+
+#details{
+    width:600px;
+    margin:auto;
+
+}
+
+li{
+   list-style:none;
+   font-size:20px;
+   margin:10px;
+   font-weight:bold;
+
+}
+.footer{
+  border:2px solid yellow;
+  background-color:bisque;
+  overflow:auto;
+
+
+}
+
+.footer li{
+   float:left;
+   padding:5px;
+   margin:0 138px;
+
+}
